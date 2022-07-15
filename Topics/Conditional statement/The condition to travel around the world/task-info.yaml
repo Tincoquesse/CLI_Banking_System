@@ -1,0 +1,28 @@
+type: choice
+is_multiple_choice: false
+options:
+- text: if (hasEnoughMoney == true &amp;&amp; hasEnoughMoney != false)
+- text: if (true)
+- text: if (!!hasEnoughMoney)
+- text: if (hasEnoughMoney == true)
+- text: if (hasEnoughMoney)
+files:
+- name: src/Task.java
+  visible: true
+  text: |
+    // You can experiment here, it won’t be checked
+
+    public class Task {
+      public static void main(String[] args) {
+        // put your code here
+      }
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/15238#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: Mon, 04 Apr 2022 06:18:49 UTC
+record: -1
+selected_options:
+- 3

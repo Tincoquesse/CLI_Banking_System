@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="delegatedBuild" value="false" />
+        <option name="testRunner" value="GRADLE" />
+        <option name="distributionType" value="WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleJvm" value="#JAVA_INTERNAL" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Simple Banking System/task" />
+            <option value="$PROJECT_DIR$/Simple Banking System/task/build/classes/java" />
+            <option value="$PROJECT_DIR$/Simple Banking System/task/build/generated/sources/annotationProcessor/java" />
+            <option value="$PROJECT_DIR$/Simple Banking System/task/build/generated/sources/headers/java" />
+            <option value="$PROJECT_DIR$/Simple Banking System/task/build/reports/tests" />
+            <option value="$PROJECT_DIR$/Simple Banking System/task/build/test-results" />
+            <option value="$PROJECT_DIR$/Simple Banking System/task/build/tmp" />
+            <option value="$PROJECT_DIR$/Topics/Arrays as parameters/Application as a class" />
+            <option value="$PROJECT_DIR$/Topics/Arrays as parameters/Get first and last elements" />
+            <option value="$PROJECT_DIR$/Topics/Arrays as parameters/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Arrays as parameters/Varargs" />
+            <option value="$PROJECT_DIR$/Topics/Arrays as parameters/Varargs method invocation" />
+            <option value="$PROJECT_DIR$/Topics/Arrays as parameters/What does the code print" />
+            <option value="$PROJECT_DIR$/Topics/Branching statements/Bus tour" />
+            <option value="$PROJECT_DIR$/Topics/Branching statements/Even or odd" />
+            <option value="$PROJECT_DIR$/Topics/Branching statements/The integer barrier" />
+            <option value="$PROJECT_DIR$/Topics/Branching statements/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Calling a method/Abs method" />
+            <option value="$PROJECT_DIR$/Topics/Calling a method/Area of parallelogram" />
+            <option value="$PROJECT_DIR$/Topics/Calling a method/Call me awesome" />
+            <option value="$PROJECT_DIR$/Topics/Calling a method/Correct names for methods" />
+            <option value="$PROJECT_DIR$/Topics/Calling a method/Method invocation" />
+            <option value="$PROJECT_DIR$/Topics/Calling a method/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Command-line arguments/Basic calculator" />
+            <option value="$PROJECT_DIR$/Topics/Command-line arguments/Command line arguments" />
+            <option value="$PROJECT_DIR$/Topics/Command-line arguments/Get the game mode" />
+            <option value="$PROJECT_DIR$/Topics/Command-line arguments/How to pass ints" />
+            <option value="$PROJECT_DIR$/Topics/Command-line arguments/How to start a program" />
+            <option value="$PROJECT_DIR$/Topics/Command-line arguments/Parameters and their values" />
+            <option value="$PROJECT_DIR$/Topics/Command-line arguments/Passing three arguments" />
+            <option value="$PROJECT_DIR$/Topics/Command-line arguments/The index of an argument" />
+            <option value="$PROJECT_DIR$/Topics/Command-line arguments/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Conditional statement/Healthy sleep" />
+            <option value="$PROJECT_DIR$/Topics/Conditional statement/Statements" />
+            <option value="$PROJECT_DIR$/Topics/Conditional statement/The army of units" />
+            <option value="$PROJECT_DIR$/Topics/Conditional statement/The condition to travel around the world" />
+            <option value="$PROJECT_DIR$/Topics/Conditional statement/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Conditional statement/Triangle" />
+            <option value="$PROJECT_DIR$/Topics/Constructor/Geometric cube" />
+            <option value="$PROJECT_DIR$/Topics/Constructor/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Defining classes/Correct fields" />
+            <option value="$PROJECT_DIR$/Topics/Defining classes/Inner boxes" />
+            <option value="$PROJECT_DIR$/Topics/Defining classes/Points on the 2D plane" />
+            <option value="$PROJECT_DIR$/Topics/Defining classes/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Exception handling/Determine a block for handling exceptions" />
+            <option value="$PROJECT_DIR$/Topics/Exception handling/Executed blocks" />
+            <option value="$PROJECT_DIR$/Topics/Exception handling/String to double conversion" />
+            <option value="$PROJECT_DIR$/Topics/Exception handling/Suitable keywords" />
+            <option value="$PROJECT_DIR$/Topics/Exception handling/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Exception handling/What does the code print" />
+            <option value="$PROJECT_DIR$/Topics/Exception handling/What exceptions can be handled" />
+            <option value="$PROJECT_DIR$/Topics/Files/Are siblings" />
+            <option value="$PROJECT_DIR$/Topics/Files/Getting information" />
+            <option value="$PROJECT_DIR$/Topics/Files/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Getters and setters/Account" />
+            <option value="$PROJECT_DIR$/Topics/Getters and setters/Book" />
+            <option value="$PROJECT_DIR$/Topics/Getters and setters/Choose a pair of getter and setter" />
+            <option value="$PROJECT_DIR$/Topics/Getters and setters/Complex" />
+            <option value="$PROJECT_DIR$/Topics/Getters and setters/Getting the fullname" />
+            <option value="$PROJECT_DIR$/Topics/Getters and setters/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Hierarchy of exceptions/Base class" />
+            <option value="$PROJECT_DIR$/Topics/Hierarchy of exceptions/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Inheritance/Access members inside child classes" />
+            <option value="$PROJECT_DIR$/Topics/Inheritance/Classes for Hospital" />
+            <option value="$PROJECT_DIR$/Topics/Inheritance/Find the same hierarchy" />
+            <option value="$PROJECT_DIR$/Topics/Inheritance/The lost modifier" />
+            <option value="$PROJECT_DIR$/Topics/Inheritance/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Instance methods/Counter" />
+            <option value="$PROJECT_DIR$/Topics/Instance methods/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Iterating over arrays/Boxes" />
+            <option value="$PROJECT_DIR$/Topics/Iterating over arrays/Count how many times a number occurs" />
+            <option value="$PROJECT_DIR$/Topics/Iterating over arrays/Find the sum" />
+            <option value="$PROJECT_DIR$/Topics/Iterating over arrays/Select loops" />
+            <option value="$PROJECT_DIR$/Topics/Iterating over arrays/Sum array elements greater than a value" />
+            <option value="$PROJECT_DIR$/Topics/Iterating over arrays/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Iterating over arrays/Triples" />
+            <option value="$PROJECT_DIR$/Topics/Multidimensional array/Create cube" />
+            <option value="$PROJECT_DIR$/Topics/Multidimensional array/Find the corners" />
+            <option value="$PROJECT_DIR$/Topics/Multidimensional array/Getting an element from a 3D array" />
+            <option value="$PROJECT_DIR$/Topics/Multidimensional array/Indexing rules" />
+            <option value="$PROJECT_DIR$/Topics/Multidimensional array/Practical applications" />
+            <option value="$PROJECT_DIR$/Topics/Multidimensional array/Printing lengths of nested arrays" />
+            <option value="$PROJECT_DIR$/Topics/Multidimensional array/Reverse elements" />
+            <option value="$PROJECT_DIR$/Topics/Multidimensional array/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Multiple constructors/Class instantiation" />
+            <option value="$PROJECT_DIR$/Topics/Multiple constructors/Employee" />
+            <option value="$PROJECT_DIR$/Topics/Multiple constructors/Entanglement" />
+            <option value="$PROJECT_DIR$/Topics/Multiple constructors/Suppose, you have a class" />
+            <option value="$PROJECT_DIR$/Topics/Multiple constructors/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Multiple constructors/Time" />
+            <option value="$PROJECT_DIR$/Topics/Objects/Army" />
+            <option value="$PROJECT_DIR$/Topics/Objects/Change identities" />
+            <option value="$PROJECT_DIR$/Topics/Objects/Find reference types" />
+            <option value="$PROJECT_DIR$/Topics/Objects/Preparing full name" />
+            <option value="$PROJECT_DIR$/Topics/Objects/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Package/A keyword for importing a class" />
+            <option value="$PROJECT_DIR$/Topics/Package/Binary search" />
+            <option value="$PROJECT_DIR$/Topics/Package/Correct packages" />
+            <option value="$PROJECT_DIR$/Topics/Package/Sorting arrays" />
+            <option value="$PROJECT_DIR$/Topics/Package/The default import" />
+            <option value="$PROJECT_DIR$/Topics/Package/The full name of a class" />
+            <option value="$PROJECT_DIR$/Topics/Package/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Random/Choose a correct invocation" />
+            <option value="$PROJECT_DIR$/Topics/Random/Find the seed" />
+            <option value="$PROJECT_DIR$/Topics/Random/Gaussian random numbers" />
+            <option value="$PROJECT_DIR$/Topics/Random/Generate random numbers" />
+            <option value="$PROJECT_DIR$/Topics/Random/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Switch statement/A simple calculator" />
+            <option value="$PROJECT_DIR$/Topics/Switch statement/Direction" />
+            <option value="$PROJECT_DIR$/Topics/Switch statement/From string to a number" />
+            <option value="$PROJECT_DIR$/Topics/Switch statement/Harry Potter" />
+            <option value="$PROJECT_DIR$/Topics/Switch statement/Removing breaks" />
+            <option value="$PROJECT_DIR$/Topics/Switch statement/Shape" />
+            <option value="$PROJECT_DIR$/Topics/Switch statement/Statements" />
+            <option value="$PROJECT_DIR$/Topics/Switch statement/Statements (1)" />
+            <option value="$PROJECT_DIR$/Topics/Switch statement/Theory" />
+            <option value="$PROJECT_DIR$/Topics/The for-loop/From sum to product" />
+            <option value="$PROJECT_DIR$/Topics/The for-loop/Size of parts" />
+            <option value="$PROJECT_DIR$/Topics/The for-loop/Statements" />
+            <option value="$PROJECT_DIR$/Topics/The for-loop/Such different for loops" />
+            <option value="$PROJECT_DIR$/Topics/The for-loop/The count of numbers divisible by N" />
+            <option value="$PROJECT_DIR$/Topics/The for-loop/The product of numbers from a to b" />
+            <option value="$PROJECT_DIR$/Topics/The for-loop/The sum of integers from a to b" />
+            <option value="$PROJECT_DIR$/Topics/The for-loop/Theory" />
+            <option value="$PROJECT_DIR$/Topics/The keyword super/Bank account" />
+            <option value="$PROJECT_DIR$/Topics/The keyword super/Theory" />
+            <option value="$PROJECT_DIR$/Topics/The main method/Print  We are robots" />
+            <option value="$PROJECT_DIR$/Topics/The main method/Theory" />
+            <option value="$PROJECT_DIR$/Topics/The while and do-while loops/Collatz conjecture" />
+            <option value="$PROJECT_DIR$/Topics/The while and do-while loops/Determine the result" />
+            <option value="$PROJECT_DIR$/Topics/The while and do-while loops/Determine the result (1)" />
+            <option value="$PROJECT_DIR$/Topics/The while and do-while loops/Magic code" />
+            <option value="$PROJECT_DIR$/Topics/The while and do-while loops/Statements" />
+            <option value="$PROJECT_DIR$/Topics/The while and do-while loops/The largest element of a sequence" />
+            <option value="$PROJECT_DIR$/Topics/The while and do-while loops/The number of loop body executions" />
+            <option value="$PROJECT_DIR$/Topics/The while and do-while loops/The smallest value" />
+            <option value="$PROJECT_DIR$/Topics/The while and do-while loops/The sum of elements" />
+            <option value="$PROJECT_DIR$/Topics/The while and do-while loops/Theory" />
+            <option value="$PROJECT_DIR$/Topics/What is an exception/Avoid division by zero" />
+            <option value="$PROJECT_DIR$/Topics/What is an exception/Behaviour of an exception" />
+            <option value="$PROJECT_DIR$/Topics/What is an exception/Exceptions' situations" />
+            <option value="$PROJECT_DIR$/Topics/What is an exception/Theory" />
+            <option value="$PROJECT_DIR$/Topics/What is an exception/Time for exceptions" />
+            <option value="$PROJECT_DIR$/Topics/java.util.Arrays/Array sorting" />
+            <option value="$PROJECT_DIR$/Topics/java.util.Arrays/Convert the array to a stream" />
+            <option value="$PROJECT_DIR$/Topics/java.util.Arrays/Theory" />
+            <option value="$PROJECT_DIR$/util" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
